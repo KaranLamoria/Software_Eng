@@ -5,6 +5,11 @@
 using namespace std;
 
 string tasklist[5];
+
+int taskdone(int index){
+	tasklist[index]=done;
+}
+
 int main()
 {
 	
