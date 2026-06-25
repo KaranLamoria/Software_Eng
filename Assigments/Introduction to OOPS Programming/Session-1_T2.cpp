@@ -32,8 +32,5 @@ int main()
 	
 	marktask(index);
 	
-	
-	
-	
 	return 0;
 }
